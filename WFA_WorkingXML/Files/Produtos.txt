@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+	<Produtos>
+		<Produto>   
+		<codigo>91</codigo>   
+		<fabricanteId>2</fabricanteId>   
+		<fabricanteNome>Tok&amp;amp;Stok</fabricanteNome>   
+		<departamentoId>2</departamentoId>   
+		<departamentoNome>Vale Presente</departamentoNome>   
+		<categoriaId>3</categoriaId>   
+		<categoriaNome>Casa e DecoraÃ§Ã£o</categoriaNome>   
+		<preco>50,00</preco>   
+		<precoDe>50,00</precoDe>   
+		<produtoNome>Vale Presente Tok&amp;amp;Stok - R$50,00</produtoNome>   
+		<descricao>CartÃ£o presente das lojas TOK&amp;amp;STOK vÃ¡lido para aquisiÃ§Ã£o de produtos em toda rede de lojas</descricao>   
+		<habilitado>S</habilitado>   
+		<Fotos>       
+			<p>http://site/lg/images/products/E21439pp.png</p>       
+			<m>http://site/lg/images/products/E21439p.png</m>       
+			<g>http://site/lg/images/products/E21439g.png</g>   
+		</Fotos>   
+		<Dimensoes>       
+			<altura>0.000</altura>       
+			<largura>0.000</largura>       
+			<profundidade>0.000</profundidade>       
+			<peso>0.000</peso>   
+		</Dimensoes>   
+			<frete>14.00</frete>   
+		<Estoque>       
+			<controle_estoque>N</controle_estoque>   
+		</Estoque>
+		</Produto>
+	<Produto>   
+		<codigo>95</codigo>   
+		<fabricanteId>5</fabricanteId>   
+		<fabricanteNome>Centauro</fabricanteNome>   
+		<departamentoId>2</departamentoId>   
+		<departamentoNome>Vale Presente</departamentoNome>   
+		<categoriaId>8</categoriaId>   
+		<categoriaNome>Artigos Esportivos</categoriaNome>   
+		<preco>50,00</preco>   
+		<precoDe>50,00</precoDe>   
+		<produtoNome>CartÃ£o Presente Centauro - R$50,00</produtoNome>   
+		<descricao>CartÃ£o presente das lojas CENTAURO vÃ¡lido para aquisiÃ§Ã£o de produtos em toda rede de lojas</descricao>   
+		<habilitado>S</habilitado>   
+		<Fotos>       
+			<p>http://site/lg/images/products/E20451pp.png</p>       
+			<m>http://site/lg/images/products/E20451p.png</m>       
+			<g>http://site/lg/images/products/E20451g.png</g>   
+		</Fotos>   
+		<Dimensoes>       
+			<altura>0.000</altura>       ]
+			<largura>0.000</largura>       
+			<profundidade>0.000</profundidade>       
+			<peso>0.000</peso>   
+		</Dimensoes>   
+		<frete>14.00</frete>   
+		<Estoque>       
+			<controle_estoque>N</controle_estoque>   
+		</Estoque>
+	</Produto>
+	<Produto>   
+		<codigo>100</codigo>   
+		<fabricanteId>9</fabricanteId>   
+		<fabricanteNome>O BoticÃ¡rio</fabricanteNome>  
+		 <departamentoId>2</departamentoId>   
+		 <departamentoNome>Vale Presente</departamentoNome>   
+		 <categoriaId>13</categoriaId>   
+		 <categoriaNome>Perfumaria e CosmÃ©ticos</categoriaNome>   
+		 <preco>100,00</preco>   
+		 <precoDe>100,00</precoDe>   
+		 <produtoNome>CartÃ£o Presente BoticÃ¡rio - R$100,00</produtoNome>   
+		 <descricao>CartÃ£o presente das lojas O BOTICÃRIO vÃ¡lido para aquisiÃ§Ã£o de produtos em todas franquias da rede</descricao>   
+		 <habilitado>S</habilitado>   
+		 <Fotos>       
+			<p>http://site/lg/images/products/E15908pp.png</p>       
+			<m>http://site/lg/images/products/E15908p.png</m>       
+			<g>http://site/lg/images/products/E15908g.png</g>   
+		</Fotos>   
+		<Dimensoes>       
+			<altura>0.000</altura>       
+			<largura>0.000</largura>       
+			<profundidade>0.000</profundidade>       
+			<peso>0.000</peso>   
+		</Dimensoes>   
+		<frete>14.00</frete>   
+		<Estoque>       
+			<controle_estoque>N</controle_estoque>   
+		</Estoque>
+	</Produto>
+	<Produto>   <codigo>107</codigo>   <fabricanteId>8</fabricanteId>   <fabricanteNome>Ri Happy</fabricanteNome>   <departamentoId>2</departamentoId>   <departamentoNome>Vale Presente</departamentoNome>   <categoriaId>12</categoriaId>   <categoriaNome>Brinquedos</categoriaNome>   <preco>50,00</preco>   <precoDe>50,00</precoDe>   <produtoNome>Vale Ri Happy - R$50,00</produtoNome>   <descricao>CartÃ£o presente das lojas Ri Happy. VÃ¡lido para aquisiÃ§Ã£o de produtos em todas lojas da rede. Validade 12 meses.</descricao>   <habilitado>S</habilitado>   <Fotos>       <p>http://site/lg/images/products/E20595pp.png</p>       <m>http://site/lg/images/products/E20595p.png</m>       <g>http://site/lg/images/products/E20595g.png</g>   </Fotos>   <Dimensoes>       <altura>0.000</altura>       <largura>0.000</largura>       <profundidade>0.000</profundidade>       <peso>0.000</peso>   </Dimensoes>   <frete>14.00</frete>   <Estoque>       <controle_estoque>N</controle_estoque>   </Estoque></Produto><Produto>   <codigo>147</codigo>   <fabricanteId>11</fabricanteId>   <fabricanteNome>Saraiva</fabricanteNome>   <departamentoId>2</departamentoId>   <departamentoNome>Vale Presente</departamentoNome>   <categoriaId>14</categoriaId>   <categoriaNome>EletrÃ´nicos e Cultura</categoriaNome>   <preco>100,00</preco>   <precoDe>100,00</precoDe>   <produtoNome>CartÃ£o Presente Saraiva - R$100,00</produtoNome>   <descricao>Vale presente das lojas Saraiva. VÃ¡lido para aqusiÃ§Ã£o de produtos em todas lojas da rede. Validade 12 meses.</descricao>   <habilitado>S</habilitado>   <Fotos>       <p>http://site/lg/images/products/E17148pp.png</p>       <m>http://site/lg/images/products/E17148p.png</m>       <g>http://site/lg/images/products/E17148g.png</g>   </Fotos>   <Dimensoes>       <altura>0.000</altura>       <largura>0.000</largura>       <profundidade>0.000</profundidade>       <peso>0.000</peso>   </Dimensoes>   <frete>14.00</frete>   <Estoque>       <controle_estoque>N</controle_estoque>   </Estoque></Produto><Produto>   <codigo>1130</codigo>   <fabricanteId>2</fabricanteId>   <fabricanteNome>Tok&amp;amp;Stok</fabricanteNome>   <departamentoId>2</departamentoId>   <departamentoNome>Vale Presente</departamentoNome>   <categoriaId>3</categoriaId>   <categoriaNome>Casa e DecoraÃ§Ã£o</categoriaNome>   <preco>50,00</preco>   <precoDe>50,00</precoDe>   <produtoNome>Vale Presente Virtual Tok &amp;amp; Stok - VIRTUAL R - R$ 50,00</produtoNome>   <descricao>CartÃ£o presente das lojas Tok&amp;amp;Stok. VÃ¡lido para aquisiÃ§Ã£o de produtos em toda rede de lojas e site de compras www.tokstok.com.br. ApÃ³s o resgate, o seu cartÃ£o Tok Presente Virtual serÃ¡ enviado para o seu e-mail em atÃ© 7 dias. Validade 12 meses.</descricao>   <habilitado>S</habilitado>   <Fotos>       <p>http://site/lg/images/products/R29613pp.png</p>       <m>http://site/lg/images/products/R29613p.png</m>       <g>http://site/lg/images/products/R29613g.png</g>   </Fotos>   <Dimensoes>       <altura>0.000</altura>       <largura>0.000</largura>       <profundidade>0.000</profundidade>       <peso>0.000</peso>   </Dimensoes>   <frete>0.00</frete>   <Estoque>       <controle_estoque>S</controle_estoque>   <quant_estoque>16</quant_estoque>   </Estoque></Produto><Produto>   <codigo>1137</codigo>   <fabricanteId>1</fabricanteId>   <fabricanteNome>C&amp;amp;A</fabricanteNome>   <departamentoId>2</departamentoId>   <departamentoNome>Vale Presente</departamentoNome>   <categoriaId>1</categoriaId>   <categoriaNome>Moda e VestuÃ¡rio</categoriaNome>   <preco>10,00</preco>   <precoDe>10,00</precoDe>   <produtoNome>Vale Presente Virtual Presente C&amp;amp;A - VIRTUAL R - R$ 100,00</produtoNome>   <descricao>CartÃ£o presente virtual das lojas C&amp;amp;A. VÃ¡lido para aquisiÃ§Ã£o de produtos e serviÃ§os em toda rede de lojas. ApÃ³s o resgate, o Virtual Presente C&amp;amp;A serÃ¡ enviado para o seu e-mail em atÃ© 72 horas. Validade 12 meses.</descricao>   <habilitado>S</habilitado>   <Fotos>       <p>http://site/lg/images/products/R29612pp.png</p>       <m>http://site/lg/images/products/R29612p.png</m>       <g>http://site/lg/images/products/R29612g.png</g>   </Fotos>   <Dimensoes>       <altura>0.000</altura>       <largura>0.000</largura>       <profundidade>0.000</profundidade>       <peso>0.000</peso>   </Dimensoes>   <frete>0.00</frete>  
+		<Estoque>       <controle_estoque>S</controle_estoque>   <quant_estoque>4</quant_estoque>   </Estoque></Produto></Produtos>
